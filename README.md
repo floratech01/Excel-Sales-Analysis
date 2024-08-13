@@ -5,7 +5,7 @@
 ## Profit and Loss Reports
 + By Fiscal Year: [View](https://github.com/floratech01/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 + By Months: [View Report]()
-+ By Markets: [View Report]()
++ By Markets: [View Report](https://github.com/floratech01/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 # Overview
 + This project involves an in-depth analysis of sales data to provide actionable insights and strategic recommendations.
 + The primary focus is on evaluating customer performance by REGION, MARKET DIVISION, comparing MARKET performance against sales targets, generated detailed financial Profit & Loss reports by FISCAL YEAR, MARKET.
