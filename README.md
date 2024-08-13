@@ -1,6 +1,6 @@
 # Excel Sales Analytics Project
 
-+ Customer performance
+[Customer performance](https://github.com/floratech01/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf)
 + Market Performance and Sales Targets Report
 + Profit and Loss Reports:
 + By Fiscal Year: View
