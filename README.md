@@ -1,11 +1,11 @@
 # Excel Sales Analytics Project
 
-✅Customer performance
-✅Market Performance and Sales Targets Report
-✅Profit and Loss Reports:
-✅By Fiscal Year: View
-✅By Months: View Report
-✅By Markets: View Report
++ Customer performance
++ Market Performance and Sales Targets Report
++ Profit and Loss Reports:
++ By Fiscal Year: View
++ By Months: View Report
++ By Markets: View Report
 # Overview
 + This project involves an in-depth analysis of sales data to provide actionable insights and strategic recommendations.
 + The primary focus is on evaluating customer performance by REGION, MARKET DIVISION, comparing MARKET performance against sales targets, generated detailed financial Profit & Loss reports by FISCAL YEAR, MARKET.
