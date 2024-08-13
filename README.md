@@ -4,7 +4,7 @@
 + [Market Performance vs Sales Targets Report](https://github.com/floratech01/Excel-Sales-Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 ## Profit and Loss Reports
 + By Fiscal Year: [View](https://github.com/floratech01/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-+ By Months: [View Report]()
++ By Months: [View Report](https://github.com/floratech01/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)
 + By Markets: [View Report](https://github.com/floratech01/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 # Overview
 + This project involves an in-depth analysis of sales data to provide actionable insights and strategic recommendations.
